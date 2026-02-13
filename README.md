@@ -180,7 +180,7 @@ This project is licensed under the MIT License.
 
 Abhijeet
 - GitHub: @abhijeet586
-- LinkedIn: https://linkedin.com/in/abhijeet586
+- LinkedIn: linkedin.com/in/abhijeet-senapati-b6a27a2a7
 
 ## Acknowledgments
 
