@@ -178,8 +178,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Abhijeet
-- GitHub: @abhijeet586
+Abhijeet , Pratyush , Aron
+- GitHub: @abhijeet586 , @pratyush017 , @aronchandel
 - LinkedIn: https://linkedin.com/in/abhijeet-senapati-b6a27a2a7
 
 ## Acknowledgments
