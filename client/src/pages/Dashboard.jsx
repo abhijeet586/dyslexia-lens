@@ -190,12 +190,10 @@ const Dashboard = () => {
 
                         {hasData ? (
                             <div className="bg-[#C8A146] px-6 py-2 rounded-full flex items-center gap-2 shadow-md">
-                                <span className="text-2xl">🔥</span>
                                 <span className="text-xl font-bold text-[#1A1A1A]">{stats.streak} Day Streak!</span>
                             </div>
                         ) : (
                             <button className="bg-[#C8A146] px-6 py-2 rounded-full flex items-center gap-2 shadow-md hover:bg-[#B6903A] transition-colors font-bold text-lg">
-                                <span className="text-2xl">🔥</span>
                                 Start Now
                             </button>
                         )}
@@ -213,7 +211,7 @@ const Dashboard = () => {
                 <div className="bg-white/50 backdrop-blur-sm rounded-2xl p-6 shadow-md border border-white/60">
                     <div className="flex items-center justify-between mb-4">
                         <h2 className="text-xl font-bold flex items-center gap-2">
-                            <span className="text-2xl">🔑</span> AI Configuration
+                            AI Configuration
                         </h2>
                         {validationStatus === 'valid' && (
                             <span className="text-green-600 font-bold flex items-center gap-1">
