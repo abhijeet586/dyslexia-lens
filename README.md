@@ -2,6 +2,20 @@
 
 A free, AI-powered reading assistant designed to help dyslexic students read and comprehend text more easily. Upload PDFs and get instant text simplification with phonetic chunking, visual anchors, and dyslexia-friendly formatting.
 
+## Demo Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing-page.png)
+
+### Features & How it Works
+![Features and How it Works](screenshots/features.png)
+
+### Login / Sign-Up
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ## Features
 
 - Bring Your Own API Key - Use your own Gemini API key (free tier available)
