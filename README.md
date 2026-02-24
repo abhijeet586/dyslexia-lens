@@ -16,7 +16,7 @@ A free, AI-powered reading assistant designed to help dyslexic students read and
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Reader - AI-Powered Text Simplification
+### Dyslexia Lens (Right) for the Page (Left)
 ![Main Working Page](screenshots/mainworkingpage.png)
 
 ## Features
