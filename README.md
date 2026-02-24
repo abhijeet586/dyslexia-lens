@@ -16,6 +16,9 @@ A free, AI-powered reading assistant designed to help dyslexic students read and
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Reader - AI-Powered Text Simplification
+![Main Working Page](screenshots/mainworkingpage.png)
+
 ## Features
 
 - Bring Your Own API Key - Use your own Gemini API key (free tier available)
